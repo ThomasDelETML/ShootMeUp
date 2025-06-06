@@ -1,0 +1,30 @@
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.csproj.AssemblyReference.cache
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.AssemblyInfoInputs.cache
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.AssemblyInfo.cs
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.csproj.CoreCompileInputs.cache
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\bin\Debug\net6.0\ShootMeUp.exe
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\bin\Debug\net6.0\ShootMeUp.deps.json
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\bin\Debug\net6.0\ShootMeUp.runtimeconfig.json
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\bin\Debug\net6.0\ShootMeUp.dll
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\bin\Debug\net6.0\ShootMeUp.pdb
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.dll
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\refint\ShootMeUp.dll
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.pdb
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ShootMeUp.genruntimeconfig.cache
+E:\2ème Année\Prog\ICT 320\P_OO\Files\ShootMeUp\obj\Debug\net6.0\ref\ShootMeUp.dll
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\bin\Debug\net6.0\ShootMeUp.exe
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\bin\Debug\net6.0\ShootMeUp.deps.json
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\bin\Debug\net6.0\ShootMeUp.runtimeconfig.json
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\bin\Debug\net6.0\ShootMeUp.dll
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\bin\Debug\net6.0\ShootMeUp.pdb
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.csproj.AssemblyReference.cache
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.AssemblyInfoInputs.cache
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.AssemblyInfo.cs
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.csproj.CoreCompileInputs.cache
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.dll
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\refint\ShootMeUp.dll
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.pdb
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ShootMeUp.genruntimeconfig.cache
+C:\Users\po51oro\Downloads\Shoot_em_up-Thomas_Moreira-DB\OO\ShootMeUp\obj\Debug\net6.0\ref\ShootMeUp.dll
