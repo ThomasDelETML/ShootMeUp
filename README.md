@@ -6,9 +6,9 @@ ShootMeUp est un jeu de type shoot 'em up développé en C# pour la console. Le 
 
 ### Page d'accueil
 
-![Page d'accueil](img/p1-smu-1.png)
+![Page d'accueil](img/p1-smu-2.png)
 
 ### Gameplay
 
-![Gameplay](img/p1-smu-2.png)
+![Gameplay](img/p1-smu-1.png)
 
